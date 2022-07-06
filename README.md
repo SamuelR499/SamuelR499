@@ -17,4 +17,4 @@
 <img align="center" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>
 </div><br/>
 
-Apaixodano por tecnoliga 🤩
+
