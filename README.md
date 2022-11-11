@@ -1,4 +1,4 @@
-## Olá eu sou Samuel Ribeiro 😉
+## Olá🖖, eu sou Samuel Ribeiro!
 
 <div>
   
