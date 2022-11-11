@@ -10,7 +10,10 @@ Sou estudante de ``Desenvolvimento Web`` na [Trybe](https://www.betrybe.com/), e
 </div>
 <br>
 
-<div align="center"> 
+[Meu portfolio 🥸](https://samuel-portfolio-ashen.vercel.app/)
+
+<div align="center">
+
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center" style="display: inline_block"> ✔️ Minhas Tecnologias </h1>
