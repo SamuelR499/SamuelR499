@@ -1,6 +1,6 @@
 ## Olá🖖, eu sou Samuel Ribeiro!
 
-Sou estudante de ``Desenvolvimento Web`` na [Trybe](https://www.betrybe.com/), e meu `Hobby` favorito é 👨‍👩‍👧 Passar tempo em Família. 🏞️
+Sou estudante de ``Desenvolvimento Web`` na [Trybe](https://www.betrybe.com/), e meu `Hobby` favorito é Passar tempo em Família.👨‍👩‍👧🏞️
 
 <br>
 
