@@ -56,17 +56,6 @@ Sou estudante de ``Desenvolvimento Web`` na [Trybe](https://www.betrybe.com/), e
   🌐 Desenvolvimento Web
 </h3>
 <h3>
-  🖥️ Front End Developer
+  🖥️ Full-stack Developer
 </h3>
 
-``Tecnologias que mais gosto de usar``
-<br>
-
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
- 
-
-  
-![Snake animation](https://github.com/SamuelR499/SamuelR499/blob/output/github-contribution-grid-snake.svg)
