@@ -10,7 +10,7 @@ Sou estudante de ``Desenvolvimento Web`` na [Trybe](https://www.betrybe.com/), e
 </div>
 <br>
 
-[Meu portfolio 🥸](https://samuel-portfolio-ashen.vercel.app/)
+[Meu portfolio 👈](https://samuel-portfolio-ashen.vercel.app/)
 
 <div align="center">
 
