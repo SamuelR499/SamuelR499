@@ -2,7 +2,10 @@
 
 Sou estudante de ``Desenvolvimento Web`` na [Trybe](https://www.betrybe.com/), e meu `Hobby` favorito é Passar tempo em Família.👨‍👩‍👧🏞️
 
-<br>
+
+<h3>
+  🖥️ Sou Desenvolvedor Full-stack 😉
+</h3>
 
 <div>  
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelR499&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -34,28 +37,22 @@ Sou estudante de ``Desenvolvimento Web`` na [Trybe](https://www.betrybe.com/), e
   
   <br>
   
-   <h1 align="center"> 💬 Redes Sociais </h1>
-    
-   <a href= "https://www.linkedin.com/in/samuel-ribeiro2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
-   <a href= "mailto: samuelribeiro2@hotmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-   </a>
+
  </div>
- 
- <br>
- <br>
- 
- <div aling="center">
- <h1>
-  Área de interesse
-</h1>
 
-<h3>
-  🌐 Desenvolvimento Web
-</h3>
-<h3>
-  🖥️ Full-stack Developer
-</h3>
+<br>
+<br>
+<br>
 
+<h1> 💬 Contato </h1>
+    
+<a href= "https://www.linkedin.com/in/samuel-ribeiro2/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href= "mailto: samuelribeiro2@hotmail.com">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+</a>
+
+<br>
+<br>
+ 
