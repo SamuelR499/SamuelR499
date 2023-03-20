@@ -2,7 +2,10 @@
     <img src="https://komarev.com/ghpvc/?username=SamuelR499&label=VISITAS&style=plastic&color=004D00" alt="Quantidade de visitas" align="right">
 </div>
 <div align="center">
-    <h1>Olá! me chamo Samuel!😁 </h1>
+    <h1>Olá! me chamo Samuel 😁! </h1>
+    <h3>e sou Desenvolvedor Web</h3>
+    <h3><a href="https://samuel-portfolio-ashen.vercel.app/">>Meu portfólio<<a/></h3>
+    
 </div>
 
 <br>
