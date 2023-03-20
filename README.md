@@ -1,58 +1,42 @@
-## Olá🖖, eu sou Samuel Ribeiro!
-
-Sou estudante de ``Desenvolvimento Web`` na [Trybe](https://www.betrybe.com/), e meu `Hobby` favorito é Passar tempo em Família.👨‍👩‍👧🏞️
-
-
-<h3>
-  🖥️ Sou Desenvolvedor Full-stack 😉
-</h3>
-
-<div>  
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelR499&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelR499&layout=compact&langs_count=16&theme=tokyonight"/>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=SamuelR499&label=VISITAS&style=plastic&color=004D00" alt="Quantidade de visitas" align="right">
 </div>
-<br>
-
-[Meu portfolio 👈](https://samuel-portfolio-ashen.vercel.app/)
+<div align="center">
+    <h1>Olá! me chamo Samuel!😁 </h1>
+</div>
 
 <div align="center">
+    <h2> Apaixonado por desafios e tecnologia ❤️! Entre em contato 👇💬</h2>
+    <p align="center">
+        <a href="https://github.com/SamuelR499">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="50" height="50" />
+        </a>
+        <a href="https://www.linkedin.com/in/samuel-ribeiro2/">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="50" height="50" />
+        </a>
+        <a href="mailto:samuelr499@gmail.com">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="50" height="50" />
+        </a>
+        <a href="mailto:samuelribeiro2@hotmail.com">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Outlook.svg" width="50" height="50" />
+        </a>
+        <a href="https://wa.me/5518998053560">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="50" height="50" />
+        </a>
+        <a href="https://www.youtube.com/channel/UCrgY5l97IEiOYSqUxkvo9jQ">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="50" height="50" />
+        </a>
+        <a href="https://www.instagram.com/samuelribeiro2">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="50" height="50" />
+        </a>
+        <a href="https://discordapp.com/users/525746639034646530">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" width="50" height="50" />
+        </a>
+    </p>
+</div>
 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center" style="display: inline_block"> ✔️ Minhas Tecnologias </h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Jest-icon" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"><br />
-    <br />
-    <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/99758843/178770624-d723b893-4f6a-41c8-bdee-99ce79946626.png" alt="RTL" />
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" />
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" />
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" />
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" />
-   </div>
-  
-  
-  <br>
-  
+<div align="center">
+    <h2> Tecnologias 🖥️ e Ferramentas ⚙️ </h2>
+</div>  
 
- </div>
 
-<br>
-<br>
-<br>
-
-<h1> 💬 Contato </h1>
-    
-<a href= "https://www.linkedin.com/in/samuel-ribeiro2/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href= "mailto: samuelribeiro2@hotmail.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</a>
-
-<br>
-<br>
- 
