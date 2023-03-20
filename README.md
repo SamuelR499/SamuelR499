@@ -5,6 +5,8 @@
     <h1>Olá! me chamo Samuel!😁 </h1>
 </div>
 
+<br>
+
 <div align="center">
     <h2> Apaixonado por desafios e tecnologia ❤️! Entre em contato 👇💬</h2>
     <p align="center">
@@ -35,11 +37,13 @@
     </p>
 </div>
 
+<br>
+<br>
+
 <div align="center">
     <h2> Tecnologias 🖥️ e Ferramentas ⚙️ </h2>
 </div>
 
-<div>
 <table>
     <tr>
         <td align="center">
@@ -183,4 +187,27 @@
             <p>pytest</p>
         </td>
 </table>
+
+<br>
+
+<div align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelR499&theme=radical&border_radius=5&locale=pt-br" width = 45% alt="Linguagens mais usadas de Samuel"/>
+    <div align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=SamuelR499&hide=stars,issues,contribs&theme=radical&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_&show_icons=true&include_all_commits=true&count_private=true" width=45% alt="Contribuições de Samuel">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <img src="https://streak-stats.demolab.com?user=SamuelR499&theme=radical&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D" width=45% alt="Status de sequência de Samuel">
+    </div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+<div align="center" >
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=F7F7F7&width=750&height=60&lines=Tenha+const%C3%A2ncia+e+seja+persistente!" alt="Tenha constância e seja persistente!" /></a>
 </div>
