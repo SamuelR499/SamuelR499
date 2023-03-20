@@ -37,6 +37,136 @@
 
 <div align="center">
     <h2> Tecnologias 🖥️ e Ferramentas ⚙️ </h2>
-</div>  
+</div>
 
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=bash" />
+            </a>
+            <p>Bash</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=github" />
+            </a>
+            <p>Github</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=html" />
+            </a>
+            <p>HTML</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=css" />
+            </a>
+            <p>CSS</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=tailwindcss" />
+            </a>
+            <p>Tailwindcss</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=react" />
+            </a>
+            <p>React</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=js" />
+            </a>
+            <p>JavaScript</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=nodejs" />
+            </a>
+            <p>Node.js</p>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=ts" />
+            </a>
+            <p>TypeScript</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=figma" />
+            </a>
+            <p>Figma</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=jest" />
+            </a>
+            <p>Jest</p>
+        </td>
+</table>
 
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=docker" />
+            </a>
+            <p>Docker</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=linux" />
+            </a>
+            <p>Linux</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=mysql" />
+            </a>
+            <p>MySQL</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=mongodb" />
+            </a>
+            <p>MongoDB</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=py" />
+            </a>
+            <p>Python</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=redux" />
+            </a>
+            <p>Redux</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=sequelize" />
+            </a>
+            <p>Sequelize</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=java" />
+            </a>
+            <p>Java</p>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=eclipse" />
+            </a>
+            <p>Eclipse</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=vercel" />
+            </a>
+            <p>Vercel</p>
+        </td>
+</table>
