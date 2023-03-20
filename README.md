@@ -90,7 +90,7 @@
         </td>
         <td align="center">
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=js" width="40"/>
+                <img src="https://skillicons.dev/icons?i=js" />
             </a>
             <p>JavaScript</p>
         </td>
@@ -101,19 +101,13 @@
             <p>Node.js</p>
         <td align="center">
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=ts" width="40"/>
+                <img src="https://skillicons.dev/icons?i=ts" />
             </a>
             <p>TypeScript</p>
         </td>
         <td align="center">
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=figma" />
-            </a>
-            <p>Figma</p>
-        </td>
-        <td align="center">
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=jest" />
+                <img src="https://skillicons.dev/icons?i=jest" width="50"/>
             </a>
             <p>Jest</p>
         </td>
