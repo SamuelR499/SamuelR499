@@ -90,7 +90,7 @@
         </td>
         <td align="center">
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=js" />
+                <img src="https://skillicons.dev/icons?i=js" width="40"/>
             </a>
             <p>JavaScript</p>
         </td>
@@ -101,7 +101,7 @@
             <p>Node.js</p>
         <td align="center">
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=ts" />
+                <img src="https://skillicons.dev/icons?i=ts" width="40"/>
             </a>
             <p>TypeScript</p>
         </td>
