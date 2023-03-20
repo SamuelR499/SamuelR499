@@ -39,7 +39,8 @@
     <h2> Tecnologias 🖥️ e Ferramentas ⚙️ </h2>
 </div>
 
-<table align="center">
+<div>
+<table>
     <tr>
         <td align="center">
             <a href="https://skillicons.dev">
@@ -79,6 +80,12 @@
         </td>
         <td align="center">
             <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=redux" />
+            </a>
+            <p>Redux</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=js" />
             </a>
             <p>JavaScript</p>
@@ -108,7 +115,7 @@
         </td>
 </table>
 
-<table align="center">
+<table>
     <tr>
         <td align="center">
             <a href="https://skillicons.dev">
@@ -136,18 +143,6 @@
         </td>
         <td align="center">
             <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=py" />
-            </a>
-            <p>Python</p>
-        </td>
-        <td align="center">
-            <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=redux" />
-            </a>
-            <p>Redux</p>
-        </td>
-        <td align="center">
-            <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=sequelize" />
             </a>
             <p>Sequelize</p>
@@ -169,4 +164,23 @@
             </a>
             <p>Vercel</p>
         </td>
+        <td align="center">
+            <a href="">
+                <img src="https://user-images.githubusercontent.com/99758843/178770624-d723b893-4f6a-41c8-bdee-99ce79946626.png" width="40" />
+            </a>
+            <p>Testing Lib</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=py" />
+            </a>
+            <p>Python</p>
+        </td>
+        <td align="center">
+            <a href="">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" />
+            </a>
+            <p>pytest</p>
+        </td>
 </table>
+</div>
