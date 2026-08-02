@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CAPA / BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Samuel%20Ribeiro&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SAP%20B1%20Developer%20%7C%20Integration%20%26%20Automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="./assets/header.svg" width="100%" alt="Samuel Ribeiro — SAP B1 Developer | Integration & Automation"/>
 
 <!-- TEXTO ANIMADO -->
 <a href="https://github.com/SamuelR499">
@@ -88,5 +88,5 @@ Desenvolvedor com foco em **integração de sistemas e automação de processos*
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt=""/>
 </div>
