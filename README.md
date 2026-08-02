@@ -36,6 +36,8 @@ Desenvolvedor com foco em **integração de sistemas e automação de processos*
   <img src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP Business One"/>
   <img src="https://img.shields.io/badge/SAP%20HANA-2C5BE0?style=flat-square&logo=sap&logoColor=white" alt="SAP HANA"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -53,14 +55,13 @@ Desenvolvedor com foco em **integração de sistemas e automação de processos*
 
 | Projeto | Descrição |
 |---|---|
-| **Importador de XML NF-e → SAP B1** | Automação (n8n + Python) da escrituração de notas emitidas por marketplaces Full: validação de XML, classificação de erros, cancelamento por evento e reprocessamento de pendências de estoque |
+| **Importador de XML NF-e → SAP B1** | Automação (n8n + Python) da escrituração de notas emitidas por marketplaces Full: validação de XML, classificação de erros, cancelamento por evento e reprocessamento de pendências de estoque com dashboard para visualização de status e periodo |
 | **Integração Pipefy ↔ SAP B1** | Criação automática de pedidos de compra no SAP a partir de cards do Pipefy, com validações de fornecedor/NCM e tratamento estruturado de erros |
 | **WMS de Inventário (modular)** | Sistema de inventário integrado ao SAP (contagens, divergências, exportação de ajuste), evoluído para plataforma modular com módulos de expedição, recebimento e etiquetas construídos em equipe |
-| **Impressão de etiquetas ZPL** | App de etiquetas para impressoras Zebra (destinatário, conferência, expedição, rótulos) + agente de impressão em Go via porta RAW 9100 |
+| **Impressão de etiquetas ZPL** | App de etiquetas para impressoras Zebra (destinatário, conferência, expedição, rótulos) + agente de impressão em Go via porta RAW 9100 com auxilio de IA |
 | **Painel de Compras** | Painel web (Python + React + Docker) com pedidos, alertas e sincronização com o SAP |
 | **Integração de Ordens de Produção** | Ponte entre as ordens de produção do SAP e sistema interno da empresa |
-| **Automação de RH** | Fluxo de abonos integrando Pontomais, Pipefy e SharePoint via n8n |
-| **Análise de estoque de segurança** | Ferramenta (Python + Power Query) para ~850 itens: estoque mínimo, ponto de reposição e produção ideal |
+| **Análise de estoque de segurança** | Ferramenta (Python + Power Query) estoque mínimo, ponto de reposição e produção ideal |
 
 ---
 
